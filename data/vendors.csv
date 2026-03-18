@@ -1,0 +1,11 @@
+vendor_id,vendor_number,vendor_name,country,city,street,postal_code,payment_terms,currency,phone,email,status
+1,VND-20001,Steelworks Brasil Ltda,BR,São Paulo,Rua das Indústrias 100,01310-100,NET30,USD,+55-11-3333-1000,contact@steelworksbr.com,ACTIVE
+2,VND-20002,MetalCo International,US,Chicago,Industrial Ave 500,60601,NET45,USD,+1-312-555-0100,sales@metalcointl.com,ACTIVE
+3,VND-20003,EuroMech GmbH,DE,Munich,Industriestraße 25,80331,NET60,EUR,+49-89-1234567,info@euromech.de,ACTIVE
+4,VND-20004,FastBolts Supply Co,BR,Curitiba,Av. Industrial 200,80230-010,NET30,USD,+55-41-3333-2000,fastbolts@supply.com.br,ACTIVE
+5,VND-20005,Global Motors Ltd,GB,London,Motor Lane 88,EC1A 1BB,NET45,GBP,+44-20-7946-0100,info@globalmotors.co.uk,ACTIVE
+6,VND-20006,PipeTech Solutions,BR,Belo Horizonte,Rua das Tubulações 55,30130-110,NET30,USD,+55-31-3333-3000,pipetech@solutions.com.br,ACTIVE
+7,VND-20007,SafeGuard Equipment,US,Houston,Safety Blvd 1200,77001,NET30,USD,+1-713-555-0200,sales@safeguardeq.com,ACTIVE
+8,VND-20008,WeldPro Supplies,BR,Porto Alegre,Rua da Soldagem 77,90040-060,NET30,USD,+55-51-3333-4000,weldpro@supplies.com.br,ACTIVE
+9,VND-20009,BearingWorld Corp,JP,Tokyo,Bearing Street 10,100-0001,NET60,JPY,+81-3-1234-5678,info@bearingworld.jp,ACTIVE
+10,VND-20010,CableNet Internacional,MX,Guadalajara,Av. Cable 300,44100,NET30,USD,+52-33-1234-5678,sales@cablenet.mx,ACTIVE
