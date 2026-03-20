@@ -1,0 +1,2 @@
+pr_id,pr_number,pr_date,material_id,material_number,description,quantity,unit_of_measure,required_date,plant,storage_location,requested_by,status
+1,PR-40001,2026-03-20,1,MAT-10001,Steel Plate 10mm,300.0,KG,2026-04-19,PL01,SL01,DEPT-PRODUCTION,OPEN
